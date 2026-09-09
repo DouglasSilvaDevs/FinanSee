@@ -39,15 +39,15 @@ O projeto foi criado como parte do meu portfólio e utiliza persistência local,
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="assets/images/screenshot_1.jpg" width="240" />
-  <img src="assets/images/screenshot_2.jpg" width="240" />
-  <img src="assets/images/screenshot_3.jpg" width="240" />
+    <img src="assets/images/screenshot_1.jpeg" width="240" />
+    <img src="assets/images/screenshot_2.jpeg" width="240" />
+    <img src="assets/images/screenshot_3.jpeg" width="240" />
 </p>
 
 <p align="center">
-    <img src="assets/images/screenshot_4.jpg" width="240" />
-    <img src="assets/images/screenshot_5.jpg" width="240" />
-    <img src="assets/images/screenshot_6.jpg" width="240" />
+    <img src="assets/images/screenshot_4.jpeg" width="240" />
+    <img src="assets/images/screenshot_5.jpeg" width="240" />
+    <img src="assets/images/screenshot_6.jpeg" width="240" />
 </p>
 
 ---
